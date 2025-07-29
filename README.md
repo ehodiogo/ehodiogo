@@ -29,16 +29,24 @@ FullStack Developer
 </a></p>
 
 ### Top Repositories
-<div width="100%" align="center"><a href="https://github.com/ehodiogo/ITerview" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehodiogo&repo=ITerview&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div width="100%" align="center">
+  
+<a href="https://github.com/ehodiogo/ITerview" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehodiogo&repo=ITerview&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
-</a><a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
 </div>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div width="100%" align="center">
+  
+<a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
-</a><a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-unity" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-unity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-unity" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-unity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
 </div>
