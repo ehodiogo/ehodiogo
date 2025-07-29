@@ -2,7 +2,7 @@
 FullStack Developer
 -------------------
 
-*   🚀  I'm currently working on [ITerview](http://github.com/ehodiogo/ITerview) and [SpotTheMap](https://spotthemap.tech)
+*   🚀  I'm currently working on [JardimBotanicoUFSM](http://jardimufsm.online) and [ehoDiogo](https://diogoantonio.dev)
 
 ### Skills 
 <p align="left">
@@ -28,8 +28,17 @@ FullStack Developer
 </picture>
 </a></p>
 
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/bohredd"><img src="https://github-readme-stats.vercel.app/api?username=bohredd&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bohredd's GitHub stats" /></a>
-
 ### Top Repositories
-<div width="100%" align="center"><a href="https://github.com/ehodiogo/ITerview" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehodiogo&repo=ITerview&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bohredd/TextIQ" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=TextIQ&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/bohredd/unirseeir" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=unirseeir&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bohredd/zorgen-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=zorgen-manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/ehodiogo/ITerview" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ehodiogo&repo=ITerview&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+
+</a><a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+
+</a><a href="https://github.com/ehodiogo/SiteJardimBotanicoUFSM-unity" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bohredd&repo=SiteJardimBotanicoUFSM-unity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+</div>
